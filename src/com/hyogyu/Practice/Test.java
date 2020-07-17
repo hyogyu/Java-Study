@@ -9,10 +9,10 @@ public class Test {
 		int i = sc.nextInt();
 		switch (i) {
 		case 1:
-			System.out.println("1ÀÌ ¸ÂÀ½");
+			System.out.println("1ì´ ë§ìŒ");
 			break;
 		default:
-			System.out.println("1ÀÌ ¾Æ´Ô");
+			System.out.println("1ì´ ì•„ë‹˜");
 		}
 	}
 

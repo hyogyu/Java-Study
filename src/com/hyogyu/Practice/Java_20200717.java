@@ -3,10 +3,10 @@ package com.hyogyu.Practice;
 public class Java_20200717 {
 
 	public static void main(String[] args) {
-		// Ãâ·Â
+		// ì¶œë ¥
 		System.out.println("Hello world!");
 
-		// ±âº»Çü
+		// ê¸°ë³¸í˜•
 		char c = 'A';
 		byte b = 0;
 		short s = 1;
@@ -16,19 +16,19 @@ public class Java_20200717 {
 		double d = 5d;
 		boolean bool = true;
 
-		// ¹®ÀÚ | 2 Byte | 0 ~ 65,635
-		// Á¤¼ö | 1 Byte | -128 ~ 127
-		// Á¤¼ö | 2 Byte | -32,768 ~ 32,767
-		// Á¤¼ö | 4 Byte | -2,147,483,648 ~ 2,147,283,647
-		// Á¤¼ö | 8 Byte | -2^64 ~ 2^64 - 1
-		// ½Ç¼ö | 4 Byte | 32 Bit ½Ç¼ö
-		// ½Ç¼ö | 8 Byte | 64 Bit ½Ç¼ö
-		// ºÒ¸° | 1 Byte | True / False
+		// ë¬¸ì | 2 Byte | 0 ~ 65,635
+		// ì •ìˆ˜ | 1 Byte | -128 ~ 127
+		// ì •ìˆ˜ | 2 Byte | -32,768 ~ 32,767
+		// ì •ìˆ˜ | 4 Byte | -2,147,483,648 ~ 2,147,283,647
+		// ì •ìˆ˜ | 8 Byte | -2^64 ~ 2^64 - 1
+		// ì‹¤ìˆ˜ | 4 Byte | 32 Bit ì‹¤ìˆ˜
+		// ì‹¤ìˆ˜ | 8 Byte | 64 Bit ì‹¤ìˆ˜
+		// ë¶ˆë¦° | 1 Byte | True / False
 
 		System.out.println("char : " + c + "\nbyte : " + b + "\nshort : " + s + "\nint : " + i + "\nlong : " + l
 				+ "\nfloat : " + f + "\ndouble : " + d + "\nboolean : " + bool);
 
-		// ¿¬»êÀÚ
+		// ì—°ì‚°ì
 		int i1 = 0;
 		int i2 = +10;
 		int i3 = -10;
